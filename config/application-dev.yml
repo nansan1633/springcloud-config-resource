@@ -1,8 +1,4 @@
 
-spring:
-    profiles: dev #开发环境
-    application:
-        name: microservicecloud-config-atguigu-dev-simple
 server:
     port: 8203
 spring:

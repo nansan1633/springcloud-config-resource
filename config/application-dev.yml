@@ -3,4 +3,14 @@ spring:
     profiles: dev #开发环境
     application:
         name: microservicecloud-config-atguigu-dev-simple
+server:
+    port: 8203
+spring:
+    profiles: dev 
+    application:
+        name:  application-dev-simple
+eureka:
+    client:
+        service-url:
+            defaultZone: http://localhost:8761/eureka
 

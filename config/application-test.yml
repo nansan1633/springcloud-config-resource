@@ -1,7 +1,7 @@
 server:
     port: 8206
 spring:
-    profiles: test-file 
+    profiles: test
     application:
         name: application-test-simple
 eureka:

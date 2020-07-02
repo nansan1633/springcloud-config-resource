@@ -3,7 +3,7 @@ server:
 spring:
     profiles: test
     application:
-        name: application-test-simple-test111-3333333
+        name: application-test-simple-test111-3333333-3333333
 eureka:
     instance:
         prefer-ip-address: true

@@ -2,7 +2,7 @@ server:
     port: 8206
     
 config:
-  info: "config info for prod(master) --update-bus"    
+  info: "config info for prod(master) --update-bus-"    
 spring:
     profiles: test
     application:

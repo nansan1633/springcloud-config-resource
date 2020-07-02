@@ -2,7 +2,7 @@ server:
     port: 8206
     
 config:
-  info: "config info for prod(master) --update-88888"    
+  info: "config info for prod(master) --update-8888833333aaaaaa"    
 spring:
     profiles: test
     application:
